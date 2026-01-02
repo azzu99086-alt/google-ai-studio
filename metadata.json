@@ -1,0 +1,5 @@
+{
+  "name": "OmniCalc: Intelligent Mathematical Workspace",
+  "description": "A high-performance calculator app featuring standard arithmetic, scientific functions, real-time function graphing with Recharts, and an AI-powered natural language solver using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
